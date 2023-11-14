@@ -1,4 +1,4 @@
-![logo](github-header-image.png)
+![logo](github-header-image%20.png)
 
 
 <h1 align="center">Hi 👋, I'm Sunit Kumar Panda</h1>
